@@ -3,7 +3,9 @@ FakeMark
 
 ![alt text](fakemark.png "FakeMark")
 
-Summary: FakeMark is a set of conventions added to media files to signify
+Summary
+-------
+FakeMark is a set of conventions added to media files to signify
 that the content has been altered significantly from the original. The intent
 is to enable content producers to signal that media was intentionally altered
 from the original. The goal of FakeMark is not to propose a secure solution
@@ -11,7 +13,7 @@ to the problem of fake media, but to enable new norms to grow and evolve surroun
 how altered media is produced and consumed.
 
 Background
-==========
+-------
 
 Media presented for consumption generally has a tacit grounding: real, fake, or ambiguous.
 
@@ -33,14 +35,15 @@ a starting point to establish richer social norms on how media is produced and
 shared.
 
 Best Practices
-==============
+-------
+![alt text](fakemark_example.png "FakeMark Example")
 Currently, FakeMark can be applied to visual media such as images or videos. The content
 consists of a capital blue "F" and should appear in the bottom right corner. This
 repo contains refrence implementations, but content providers are free to reinterpret
 these within the spirit of the proposal.
 
 Contribute
-==========
+-------
 We welcome feedback to FakeMark, such as:
 
   * Reference Implementations
