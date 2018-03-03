@@ -23,14 +23,14 @@ Media presented for consumption generally has a tacit grounding: real, fake, or 
 
 Real media is meant to be a depiction of reality while fake media has been
 altered for effect. Media can also be intentionally presented with ambiguous provenance
-in order to provoke more critical thought from the viewer. However, the advance
+in order to provoke more critical thought from the viewer. The advance
 of technology has seen the rapid increase of fake and ambiguous media in popular culture.
 
 FakeMark is a small, first step to allow media producers a simple way of signaling
 that their content is intented as fake. The initial use case focuses on
 providing researchers and
 those showcasing media manipulation techniques a tool to keep their produced works from
-being easily shared and misunderstood out of context. However, as other domains
+being easily shared and misunderstood out of context. However as other domains
 find explicit visually signalling useful, FakeMark will aim to adapt to fix other contexts.
 
 FakeMark is not intended to be a secure solution to adversaries. Use of FaceMark is strictly
