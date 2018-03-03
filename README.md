@@ -36,7 +36,7 @@ shared.
 
 Best Practices
 -------
-![alt text](fakemark_example.png "FakeMark Example")
+![alt text](fakemark_example.jpg "FakeMark Example")
 Currently, FakeMark can be applied to visual media such as images or videos. The content
 consists of a capital blue "F" and should appear in the bottom right corner. This
 repo contains refrence implementations, but content providers are free to reinterpret
