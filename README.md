@@ -62,5 +62,5 @@ If you have ideas for how FakeMark can be more effective, please open a github i
 As a general design guide: FakeMark is intended to be dead-simple to implement
 (one of the reasons a "Blue F" was chosen is that a baseline implementation can be done
 to any image by simply adding four rectangles in two colors). We welcome all suggestions,
-but explicitly favor any proposal not increasing the complexity of deploying FaceMark.
+but explicitly favor any proposal not increasing the complexity of deploying FakeMark.
 
