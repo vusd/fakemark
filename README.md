@@ -31,7 +31,7 @@ that their content is intented as fake. The initial use case focuses on
 providing researchers and
 those showcasing media manipulation techniques a tool to keep their produced works from
 being easily shared and misunderstood out of context. However, as other domains
-find explicit signalling visually useful, FakeMark will aim to adapt to fix other contexts.
+find explicit visually signalling useful, FakeMark will aim to adapt to fix other contexts.
 
 FakeMark is not intended to be a secure solution to adversaries. Use of FaceMark is strictly
 voluntary as there are often very compelling reasons to present media that is ambiguous in nature. FakeMark is instead meant to be
