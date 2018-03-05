@@ -43,17 +43,17 @@ Best Practices
 ![alt text](fakemark_example.jpg "FakeMark Example")
 
 Currently, FakeMark can be applied to visual media such as images or videos. The content
-consists of a capital blue "F" and should appear in the bottom right corner. This
+consists of a blue uppercase "F" and should appear in the bottom right corner. This
 repo contains reference implementations, but content providers are free to reinterpret
 these within the spirit of the proposal.
 
 As a general design guide: FakeMark is intended to be dead-simple to implement.
-One of the reasons a "Blue F" was chosen is that a baseline implementation can be done
+One of the reasons a simple blue F was chosen is that a baseline implementation can be done
 to any image by simply adding four rectangles in two colors. The current
 suggested implementation is to overlay the provided transparent png in the bottom right
 corner.
 
-This repo will continue to communicate best practices with reference implementations. We welcome all suggestions, but explicitly favor any proposal not increasing the complexity of deploying FakeMark.
+This repo will continue to communicate best practices along with reference implementations. We welcome all suggestions, but explicitly favor any proposal not increasing the complexity of deploying FakeMark.
 
 
 Contribute
