@@ -27,11 +27,11 @@ in order to provoke more critical thought from the viewer. The advance
 of technology has seen the rapid increase of fake and ambiguous media in popular culture.
 
 FakeMark is a small, first step to allow media producers a simple way of signaling
-that their content is intented as fake. The initial use case focuses on
+that their content is intended as fake. The initial use case focuses on
 providing researchers and
 those showcasing media manipulation techniques a tool to keep their produced works from
 being easily shared and misunderstood out of context. However as other domains
-find explicit visually signalling useful, FakeMark will aim to adapt to fix other contexts.
+find explicit visually signaling useful, FakeMark will aim to adapt to fit other contexts.
 
 FakeMark is not intended to be a secure solution to adversaries. Use of FaceMark is strictly
 voluntary as there are often very compelling reasons to present media that is ambiguous in nature. FakeMark is instead meant to be
@@ -44,10 +44,17 @@ Best Practices
 
 Currently, FakeMark can be applied to visual media such as images or videos. The content
 consists of a capital blue "F" and should appear in the bottom right corner. This
-repo contains refrence implementations, but content providers are free to reinterpret
+repo contains reference implementations, but content providers are free to reinterpret
 these within the spirit of the proposal.
 
-This repo will continue to communicate best practices with refrence implementations.
+As a general design guide: FakeMark is intended to be dead-simple to implement.
+One of the reasons a "Blue F" was chosen is that a baseline implementation can be done
+to any image by simply adding four rectangles in two colors. The current
+suggested implementation is to overlay the provided transparent png in the bottom right
+corner.
+
+This repo will continue to communicate best practices with reference implementations. We welcome all suggestions, but explicitly favor any proposal not increasing the complexity of deploying FakeMark.
+
 
 Contribute
 -------
@@ -57,10 +64,6 @@ We welcome feedback to FakeMark, such as:
   * Simple Design Guides
   * Suggestions for Use
 
-If you have ideas for how FakeMark can be more effective, please open a github issue or pull request.
+If you have ideas for how FakeMark can be more effective, please open a github issue or pull request. 
 
-As a general design guide: FakeMark is intended to be dead-simple to implement
-(one of the reasons a "Blue F" was chosen is that a baseline implementation can be done
-to any image by simply adding four rectangles in two colors). We welcome all suggestions,
-but explicitly favor any proposal not increasing the complexity of deploying FakeMark.
 
